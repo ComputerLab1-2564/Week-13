@@ -18,6 +18,10 @@
 
 ![image](https://user-images.githubusercontent.com/92082676/141445691-9a12d31b-8fb0-47f7-a8d9-0fb50e3bb67d.png)
 
+ด่านที่ 1.4
+
+![image](https://user-images.githubusercontent.com/92082676/141450751-555b9d62-b222-46ee-825e-660afcead98c.png)
+
 
 
 ---
