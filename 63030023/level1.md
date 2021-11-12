@@ -14,6 +14,10 @@
 
 ![image](https://user-images.githubusercontent.com/92082676/141433587-450f0986-2122-4da3-aae6-3d088c7964a6.png)
 
+ด่านที่ 1.3
+
+![image](https://user-images.githubusercontent.com/92082676/141445691-9a12d31b-8fb0-47f7-a8d9-0fb50e3bb67d.png)
+
 
 
 ---
