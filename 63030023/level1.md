@@ -10,6 +10,11 @@
 
 ![image](https://user-images.githubusercontent.com/92082676/141422092-67f89697-a0a2-4bea-a239-b16a6c488d7f.png)
 
+ด่านที่ 1.2
+
+![image](https://user-images.githubusercontent.com/92082676/141433587-450f0986-2122-4da3-aae6-3d088c7964a6.png)
+
+
 
 ---
 ตารางสรุปผล
