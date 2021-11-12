@@ -8,7 +8,8 @@
 
 ด่านที่ 1.1 
 
-![image](https://user-images.githubusercontent.com/567256/141252053-f17d34cd-001b-428a-b83d-22995b69bcb4.png)
+![image](https://user-images.githubusercontent.com/92082676/141422092-67f89697-a0a2-4bea-a239-b16a6c488d7f.png)
+
 
 ---
 ตารางสรุปผล
