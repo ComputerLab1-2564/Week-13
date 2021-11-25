@@ -20,6 +20,8 @@
 
 ---
 ตารางสรุปผล
+
+
 ![image](https://user-images.githubusercontent.com/92082798/143495396-42d6afe7-b52a-40ab-8324-fd5c523d14b7.png)
 
 
