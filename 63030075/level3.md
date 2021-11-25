@@ -8,9 +8,13 @@
 
 ด่านที่ 1.1 
 
-![image](https://user-images.githubusercontent.com/567256/141252053-f17d34cd-001b-428a-b83d-22995b69bcb4.png)
+![image](https://user-images.githubusercontent.com/92082233/143496154-a54ff21f-e040-45d4-bda1-c3d94ada63ff.png)
+
+ด่านที่ 1.2
+![image](https://user-images.githubusercontent.com/92082233/143496193-16530a69-aa7b-4b08-94d7-260262e0f042.png)
+
 
 ---
 ตารางสรุปผล
 
-![image](https://user-images.githubusercontent.com/567256/141252474-3468dc9a-a756-4076-9639-6a50edb7bf72.png)
+![image](https://user-images.githubusercontent.com/92082233/143496221-09709162-40a6-4561-9111-f5b3c835a498.png)
