@@ -21,6 +21,8 @@
 
 ---
 ตารางสรุปผล
+
+
 ![image](https://user-images.githubusercontent.com/92082798/143495253-510051eb-d5a3-4106-b103-dc06fb4bc9ac.png)
 
 
