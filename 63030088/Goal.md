@@ -8,7 +8,7 @@
 
 ตารางสรุปผล Main
 
-<img src="Goal/Goal1.png">
+<img src="Goal/goal1.png">
 
 ---
 
