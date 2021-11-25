@@ -6,11 +6,20 @@
 
 ผลการเล่นเกมส์
 
-ด่านที่ 1.1 
+ด่านที่ 2.1 
+![image](https://user-images.githubusercontent.com/92082798/143495361-ce4eaf0a-7d93-469c-9aeb-6e8a5ac153d8.png)
 
-![image](https://user-images.githubusercontent.com/567256/141252053-f17d34cd-001b-428a-b83d-22995b69bcb4.png)
+ด่านที่ 2.2
+![image](https://user-images.githubusercontent.com/92082798/143495365-da7ea964-44cf-4df5-b466-1fe18ceea03d.png)
+
+ด่านที่ 2.3
+![image](https://user-images.githubusercontent.com/92082798/143495368-9157de6a-950a-44e2-aa21-a5a048bbf2e1.png)
+
+ด่านที่ 2.4
+![image](https://user-images.githubusercontent.com/92082798/143495376-b1b74d23-5dcc-4459-949a-e36c5ce2b11c.png)
 
 ---
 ตารางสรุปผล
+![image](https://user-images.githubusercontent.com/92082798/143495396-42d6afe7-b52a-40ab-8324-fd5c523d14b7.png)
 
-![image](https://user-images.githubusercontent.com/567256/141252474-3468dc9a-a756-4076-9639-6a50edb7bf72.png)
+
