@@ -8,9 +8,19 @@
 
 ด่านที่ 1.1 
 
-![image](https://user-images.githubusercontent.com/567256/141252053-f17d34cd-001b-428a-b83d-22995b69bcb4.png)
+![image](https://user-images.githubusercontent.com/92082798/143495020-f062acfd-670b-42d8-b0f0-18306e837c59.png)
+
+ด่านที่ 1.2
+![image](https://user-images.githubusercontent.com/92082798/143495064-6ebc652f-d152-4b8d-bd53-c6760aa85444.png)
+
+ด่านที่ 1.3
+![image](https://user-images.githubusercontent.com/92082798/143495070-94983804-0305-469f-8c87-fb41ec676719.png)
+
+ด่านที่ 1.4
+![image](https://user-images.githubusercontent.com/92082798/143495099-d2a7df25-fc16-4ebe-9c49-e1b8f05c9bd1.png)
 
 ---
 ตารางสรุปผล
+![image](https://user-images.githubusercontent.com/92082798/143495253-510051eb-d5a3-4106-b103-dc06fb4bc9ac.png)
 
-![image](https://user-images.githubusercontent.com/567256/141252474-3468dc9a-a756-4076-9639-6a50edb7bf72.png)
+
