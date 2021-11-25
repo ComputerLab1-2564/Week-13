@@ -8,9 +8,9 @@
 
 ด่านที่ 1.1 
 
+![image](https://user-images.githubusercontent.com/92082233/143495453-a7ecdd2d-37b8-4a4f-b5fe-6432523336bb.png)
 
 
 ---
 ตารางสรุปผล
-
-![image](https://user-images.githubusercontent.com/567256/141252474-3468dc9a-a756-4076-9639-6a50edb7bf72.png)
+![image](https://user-images.githubusercontent.com/92082233/143495495-02a62b20-7d1f-4c38-97e7-51ec822511c7.png)
