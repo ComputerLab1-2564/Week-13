@@ -19,4 +19,4 @@
 
 ## Goal
 
-[Goal](./Goal.md)
+ตารางสรุปผล ===> [Goal](./goal.md)
