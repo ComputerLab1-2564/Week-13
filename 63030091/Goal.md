@@ -14,6 +14,6 @@
 
 ตารางสรุปผล Remote
 
-
+<img src="Goal/Remote.png">
 
 ---
