@@ -7,21 +7,21 @@
 ## Main
 
 |Level|Title|
-|:---:|:---:|
-|1|[Introduction Sequence](./Main1 Introduction Sequence.md)|
-|2|[Ramping Up](./Main2 Ramping Up.md)|
-|3|[Moving Work Around](./Main3 Moving Work Around.md)|
-|4|[A Mixed Bag](./Main4 A Mixed Bag.md)|
-|5|[Advanced Topics](./Main5 Advanced Topics.md)|
+|:---:|-----|
+|1|[Introduction Sequence](https://github.com/siripaksorn/Week-13/blob/main/63030091/Main1%20Introduction%20Sequence.md)|
+|2|[Ramping Up](https://github.com/siripaksorn/Week-13/blob/main/63030091/Main2%20Ramping%20Up.md)|
+|3|[Moving Work Around](https://github.com/siripaksorn/Week-13/blob/main/63030091/Main3%20Moving%20Work%20Around.md)|
+|4|[A Mixed Bag](https://github.com/siripaksorn/Week-13/blob/main/63030091/Main4%20A%20Mixed%20Bag.md)|
+|5|[Advanced Topics](https://github.com/siripaksorn/Week-13/blob/main/63030091/Main5%20Advanced%20Topics.md)|
 
 ---
 
 ## Remote
 
 |Level|Title|
-|:---:|:---:|
-|1|[Push & Pull](./Remote1 Push & Pull.md)|
-|2|[To Origin And Beyond](./Remote2 To Origin And Beyond.md)|
+|:---:|-----|
+|1|[Push & Pull](https://github.com/siripaksorn/Week-13/blob/main/63030091/Remote1%20Push%20%26%20Pull.md)|
+|2|[To Origin And Beyond](https://github.com/siripaksorn/Week-13/blob/main/63030091/Remote2%20To%20Origin%20And%20Beyond.md)|
 
 ---
 
