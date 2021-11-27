@@ -27,6 +27,10 @@
 
 ![image](https://user-images.githubusercontent.com/92082676/143681188-e1379430-2f1e-40f6-8bc5-22e68d4a184e.png)
 
+ด่านที่ 2.2
+
+![image](https://user-images.githubusercontent.com/92082676/143682673-43034d67-63c6-4aa8-9430-c38fc986a26d.png)
+
 
 
 ---
