@@ -119,6 +119,13 @@
 
 ![image](https://user-images.githubusercontent.com/92082676/143869853-1294f27a-c485-468f-aebc-4aa2a5d148cf.png)
 
+---
+
+ด่านที่ 7.1
+
+![image](https://user-images.githubusercontent.com/92082676/143871115-aad8809e-5b64-4fb7-bf0b-7d057ac086a1.png)
+
+
 
 
 ---
