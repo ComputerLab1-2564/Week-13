@@ -137,6 +137,9 @@
 
 ![image](https://user-images.githubusercontent.com/92082676/143897463-6d6cb6a6-a05d-4144-b518-6d4f92615ed1.png)
 
+ด่านที่ 7.5
+
+![image](https://user-images.githubusercontent.com/92082676/143897778-229d4863-8fcf-42dc-92cc-8258809ee83d.png)
 
 
 
