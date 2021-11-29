@@ -55,6 +55,12 @@
 
 ![image](https://user-images.githubusercontent.com/92082676/143849680-c10a1f59-427f-4e87-829e-cd052662f7c3.png)
 
+ด่านที่ 4.2
+
+![image](https://user-images.githubusercontent.com/92082676/143852249-487d267a-636c-4b1d-a3bb-0eaa3629729a.png)
+
+
+
 
 
 
