@@ -129,6 +129,10 @@
 
 ![image](https://user-images.githubusercontent.com/92082676/143894949-32e1e795-91d5-46fe-9935-3bdb46fba7c9.png)
 
+ด่านที่ 7.3
+
+![image](https://user-images.githubusercontent.com/92082676/143897225-c2ea6d3e-bd24-4b41-8580-05b655674cdc.png)
+
 
 
 
