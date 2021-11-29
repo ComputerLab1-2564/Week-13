@@ -49,6 +49,13 @@
 
 ![image](https://user-images.githubusercontent.com/92082676/143826009-0fac050e-25cc-4ff8-8049-2314507e47cf.png)
 
+---
+
+ด่านที่ 4.1
+
+![image](https://user-images.githubusercontent.com/92082676/143849680-c10a1f59-427f-4e87-829e-cd052662f7c3.png)
+
+
 
 
 
