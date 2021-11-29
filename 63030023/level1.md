@@ -7,6 +7,7 @@
 ผลการเล่นเกมส์
 
 Introduction Sequence
+
 ด่านที่ 1.1 
 
 ![image](https://user-images.githubusercontent.com/92082676/141422092-67f89697-a0a2-4bea-a239-b16a6c488d7f.png)
@@ -26,6 +27,7 @@ Introduction Sequence
 ---
 
 Ramping Up
+
 ด่านที่ 2.1
 
 ![image](https://user-images.githubusercontent.com/92082676/143681188-e1379430-2f1e-40f6-8bc5-22e68d4a184e.png)
@@ -45,6 +47,7 @@ Ramping Up
 ---
 
 Moving Work Around
+
 ด่านที่ 3.1
 
 ![image](https://user-images.githubusercontent.com/92082676/143823780-b075fa84-369b-401a-bdef-a8ee41f32a4a.png)
@@ -56,6 +59,7 @@ Moving Work Around
 ---
 
 A Mixed Bag
+
 ด่านที่ 4.1
 
 ![image](https://user-images.githubusercontent.com/92082676/143849680-c10a1f59-427f-4e87-829e-cd052662f7c3.png)
@@ -79,6 +83,7 @@ A Mixed Bag
 ---
 
 Advanced Topics
+
 ด่านที่  5.1
 
 ![image](https://user-images.githubusercontent.com/92082676/143856491-1388e301-e8cf-4077-b4a3-bcc0de866747.png)
@@ -94,6 +99,7 @@ Advanced Topics
 ---
 
 Push & Pull -- Git Remotes!
+
 ด่านที่ 6.1
 
 ![image](https://user-images.githubusercontent.com/92082676/143859058-6fbf8b95-53a4-457f-b652-97ff5de6caaa.png)
@@ -129,6 +135,7 @@ Push & Pull -- Git Remotes!
 ---
 
 To Origin And Beyond -- Advanced Git Remotes!
+
 ด่านที่ 7.1
 
 ![image](https://user-images.githubusercontent.com/92082676/143871115-aad8809e-5b64-4fb7-bf0b-7d057ac086a1.png)
