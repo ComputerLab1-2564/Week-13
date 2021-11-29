@@ -99,6 +99,10 @@
 
 ![image](https://user-images.githubusercontent.com/92082676/143859880-865a7ccc-bdbc-4715-9ada-1cde71ae8d54.png)
 
+ด่านที่ 6.4
+
+![image](https://user-images.githubusercontent.com/92082676/143860380-d3fe592b-6846-4a90-8ff5-e5c4c5e2cd95.png)
+
 
 
 
