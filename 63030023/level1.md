@@ -85,6 +85,11 @@
 
 ![image](https://user-images.githubusercontent.com/92082676/143858584-20ef36db-33ec-473d-aa12-e2dd200050bb.png)
 
+---
+
+ด่านที่ 6.1
+
+![image](https://user-images.githubusercontent.com/92082676/143859058-6fbf8b95-53a4-457f-b652-97ff5de6caaa.png)
 
 
 
