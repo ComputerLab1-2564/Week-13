@@ -103,6 +103,9 @@
 
 ![image](https://user-images.githubusercontent.com/92082676/143860380-d3fe592b-6846-4a90-8ff5-e5c4c5e2cd95.png)
 
+ด่านที่ 6.5
+
+![image](https://user-images.githubusercontent.com/92082676/143864099-2a6c6bd9-673c-42c0-99a4-b011980bbb49.png)
 
 
 
