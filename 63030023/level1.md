@@ -91,6 +91,9 @@
 
 ![image](https://user-images.githubusercontent.com/92082676/143859058-6fbf8b95-53a4-457f-b652-97ff5de6caaa.png)
 
+ด่านที่ 6.2
+
+![image](https://user-images.githubusercontent.com/92082676/143859491-b971043d-cca3-4005-834f-5130d32cceec.png)
 
 
 
