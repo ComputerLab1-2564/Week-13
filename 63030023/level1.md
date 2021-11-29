@@ -156,4 +156,6 @@
 ---
 ตารางสรุปผล
 
-![image](https://user-images.githubusercontent.com/567256/141252474-3468dc9a-a756-4076-9639-6a50edb7bf72.png)
+![git pic 1](https://user-images.githubusercontent.com/92082676/143901007-c603487a-f38d-4b32-832d-4e14ebe57185.png)
+
+![git pic 2](https://user-images.githubusercontent.com/92082676/143901032-6cb30584-3f06-4c37-8abd-8db2f70b48a0.png)
