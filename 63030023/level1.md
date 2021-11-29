@@ -111,6 +111,10 @@
 
 ![image](https://user-images.githubusercontent.com/92082676/143864542-848148d1-1fc2-4436-8775-571d402dd933.png)
 
+ด่านที่ 6.7
+
+![image](https://user-images.githubusercontent.com/92082676/143865559-cf130a04-f555-4b50-81c8-814cfa37f108.png)
+
 
 
 ---
