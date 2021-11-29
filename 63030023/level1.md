@@ -147,7 +147,7 @@
 
 ด่านที่ 7.7
 
-
+![image](https://user-images.githubusercontent.com/92082676/143899613-4617619c-4b36-42b0-b749-a58d2bb28652.png)
 
 ด่านที่ 7.8
 
