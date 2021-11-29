@@ -35,6 +35,11 @@
 
 ![image](https://user-images.githubusercontent.com/92082676/143822589-8051699b-f322-48cd-ba6c-d0dc8f4e9e78.png)
 
+ด่านที่ 2.4
+
+![image](https://user-images.githubusercontent.com/92082676/143823254-d7ec1b97-f4d5-4858-94ab-534475d96e69.png)
+
+
 
 
 ---
