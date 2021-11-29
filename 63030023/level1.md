@@ -115,6 +115,10 @@
 
 ![image](https://user-images.githubusercontent.com/92082676/143865559-cf130a04-f555-4b50-81c8-814cfa37f108.png)
 
+ด่านที่ 6.8
+
+![image](https://user-images.githubusercontent.com/92082676/143869853-1294f27a-c485-468f-aebc-4aa2a5d148cf.png)
+
 
 
 ---
