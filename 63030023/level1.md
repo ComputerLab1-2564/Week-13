@@ -125,6 +125,12 @@
 
 ![image](https://user-images.githubusercontent.com/92082676/143871115-aad8809e-5b64-4fb7-bf0b-7d057ac086a1.png)
 
+ด่านที่ 7.2
+
+![image](https://user-images.githubusercontent.com/92082676/143894949-32e1e795-91d5-46fe-9935-3bdb46fba7c9.png)
+
+
+
 
 
 
