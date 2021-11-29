@@ -95,6 +95,10 @@
 
 ![image](https://user-images.githubusercontent.com/92082676/143859491-b971043d-cca3-4005-834f-5130d32cceec.png)
 
+ด่านที่ 6.3
+
+![image](https://user-images.githubusercontent.com/92082676/143859880-865a7ccc-bdbc-4715-9ada-1cde71ae8d54.png)
+
 
 
 
