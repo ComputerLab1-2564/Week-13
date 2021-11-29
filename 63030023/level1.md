@@ -63,6 +63,10 @@
 
 ![image](https://user-images.githubusercontent.com/92082676/143853040-e68efedb-2bfe-4afa-b3af-b405c7cc2db0.png)
 
+ด่านที่ 4.4.
+
+![image](https://user-images.githubusercontent.com/92082676/143853681-74a51416-f375-4bb8-be52-07e7b801742b.png)
+
 
 
 
