@@ -6,22 +6,21 @@
 
 ผลการเล่นเกมส์
 
-ด่านที่ 1.1 
+ด่านที่ 3.1 
+
+![image](https://user-images.githubusercontent.com/92082685/144704142-18f8e74b-3a0a-472f-a719-84a82cf1017d.png)
 
 
+ด่านที่ 3.2
 
-ด่านที่ 1.2
-
-
-ด่านที่ 1.3
-
-
-ด่านที่ 1.4
+![image](https://user-images.githubusercontent.com/92082685/144704430-04a2cbb2-2885-491b-b5b8-b6177688c786.png)
 
 
 ---
 ตารางสรุปผล
 
+![image](https://user-images.githubusercontent.com/92082685/144704437-11edaa87-12d0-444a-a8bb-2e60ae204dbd.png)
+![image](https://user-images.githubusercontent.com/92082685/144704439-7925db5d-a8cd-4cbd-8e0c-0d74f76763ab.png)
 
 
 
