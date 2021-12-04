@@ -17,12 +17,16 @@
 
 ด่านที่ 2.3
 
+![image](https://user-images.githubusercontent.com/92082685/144703872-68033d22-0572-4a75-89e7-2528e91c0df8.png)
 
 ด่านที่ 2.4
 
+![image](https://user-images.githubusercontent.com/92082685/144703984-d9a31a14-7d33-40e8-ad37-3a2de38cc7bf.png)
 
 ---
 ตารางสรุปผล
+
+![image](https://user-images.githubusercontent.com/92082685/144704032-65b3eba8-16cb-44d2-82c1-aa84b22e9f35.png)
 
 
 
