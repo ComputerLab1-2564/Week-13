@@ -8,21 +8,17 @@
 
 ด่านที่ 1.1 
 
-![image](https://user-images.githubusercontent.com/92082798/143495020-f062acfd-670b-42d8-b0f0-18306e837c59.png)
-
+![image](https://user-images.githubusercontent.com/92081694/144767264-f0a737f4-4c6a-4af5-9b42-043204f15ff5.png)
 ด่านที่ 1.2
-![image](https://user-images.githubusercontent.com/92082798/143495064-6ebc652f-d152-4b8d-bd53-c6760aa85444.png)
-
+![image](https://user-images.githubusercontent.com/92081694/144767459-bbb59d66-7f82-4841-96fe-b1224ee65614.png)
 ด่านที่ 1.3
-![image](https://user-images.githubusercontent.com/92082798/143495070-94983804-0305-469f-8c87-fb41ec676719.png)
-
+![image](https://user-images.githubusercontent.com/92081694/144767675-5c019dbc-96c8-4546-8cab-3f0f41f4b19b.png)
 ด่านที่ 1.4
-![image](https://user-images.githubusercontent.com/92082798/143495099-d2a7df25-fc16-4ebe-9c49-e1b8f05c9bd1.png)
-
+![image](https://user-images.githubusercontent.com/92081694/144767753-6a17b93e-135b-49d0-861b-dfc04e517fe1.png)
 ---
 ตารางสรุปผล
+![image](https://user-images.githubusercontent.com/92081694/144767774-faba1cc6-6a49-4276-9575-89bc7ece1b87.png)
 
 
-![image](https://user-images.githubusercontent.com/92082798/143495253-510051eb-d5a3-4106-b103-dc06fb4bc9ac.png)
 
 
