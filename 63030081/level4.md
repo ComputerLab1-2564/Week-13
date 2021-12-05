@@ -7,7 +7,7 @@
 ผลการเล่นเกมส์
 
 ด่านที่ 4.1 
-![image](https://user-images.githubusercontent.com/92082798/143495601-c0fb0026-e37e-41db-9958-caee8ae200b7.png)
+![image](https://user-images.githubusercontent.com/92081694/144768306-4b0ccf09-49f3-44ef-ad95-e0361df44983.png)
 
 ด่านที่ 4.2
 ![image](https://user-images.githubusercontent.com/92082798/143495656-e62d3e7d-948d-4bbf-9293-4daa1afa0dab.png)
