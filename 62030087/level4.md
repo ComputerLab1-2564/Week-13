@@ -7,25 +7,28 @@
 ผลการเล่นเกมส์
 
 ด่านที่ 4.1 
-![image](https://user-images.githubusercontent.com/92082798/143495601-c0fb0026-e37e-41db-9958-caee8ae200b7.png)
+![image](https://user-images.githubusercontent.com/71489984/144885651-38438173-70d4-4e78-a62c-ce817c1e9ade.png)
 
 ด่านที่ 4.2
-![image](https://user-images.githubusercontent.com/92082798/143495656-e62d3e7d-948d-4bbf-9293-4daa1afa0dab.png)
+![image](https://user-images.githubusercontent.com/71489984/144886233-ae1ffa7d-c148-4ecc-aaaf-dd6ef5c0488c.png)
 
 ด่านที่ 4.3
-![image](https://user-images.githubusercontent.com/92082798/143495660-9cbfbf03-482f-4ff3-a790-2d5200c9a3d8.png)
+![image](https://user-images.githubusercontent.com/71489984/144886374-94253d16-76b1-4d18-8865-00d6929d0307.png)
+
 
 ด่านที่ 4.4
-![image](https://user-images.githubusercontent.com/92082798/143495665-569bf7d6-1054-4150-8752-b81c4f280267.png)
+![image](https://user-images.githubusercontent.com/71489984/144886546-5db22307-91fd-42d8-b68c-c6333f59f6a2.png)
+
 
 ด่านที่ 4.5
-![image](https://user-images.githubusercontent.com/92082798/143495669-b23d7748-82c2-477c-89f5-15e74c30379b.png)
+![image](https://user-images.githubusercontent.com/71489984/144887033-426082fd-c023-4b9d-98a5-83331e2d79bd.png)
 
 
 ---
 ตารางสรุปผล
 
 
-![image](https://user-images.githubusercontent.com/92082798/143495685-458ecbfc-773b-492b-a2b6-6a5dda757765.png)
+![image](https://user-images.githubusercontent.com/71489984/144887094-64328dd9-12da-4c40-818f-f2b00f6a0638.png)
+
 
 
