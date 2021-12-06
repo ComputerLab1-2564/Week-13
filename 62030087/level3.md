@@ -7,15 +7,17 @@
 ผลการเล่นเกมส์
 
 ด่านที่ 3.1
-![image](https://user-images.githubusercontent.com/92082798/143495508-1b11adb7-9df8-4951-8471-b6e3ca64cd15.png)
+![image](https://user-images.githubusercontent.com/71489984/144884728-9b89796b-e1dd-4698-a6fc-c2b0d7f30118.png)
+
 
 
 ด่านที่ 3.2
-![image](https://user-images.githubusercontent.com/92082798/143495512-f348716f-7349-4a33-a31a-2587adf067fd.png)
+![image](https://user-images.githubusercontent.com/71489984/144884932-44153916-cbbf-4c3d-9558-c227c59d3d06.png)
+
 
 
 ---
 ตารางสรุปผล
 
-![image](https://user-images.githubusercontent.com/92082798/143495530-703c7c0f-0a65-48aa-99cb-4e5f9ac75eaa.png)
+![image](https://user-images.githubusercontent.com/71489984/144884988-19270db1-4351-4355-ab81-edfb2d3f969a.png)
 
