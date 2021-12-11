@@ -3,3 +3,6 @@
 
 # ด่านที่ 4.2
 ![image](https://user-images.githubusercontent.com/92083472/145680236-283ff50d-b4c2-4fa0-a97a-8a053c3b8868.png)
+
+# ด่านที่ 4.3
+![image](https://user-images.githubusercontent.com/92083472/145680272-83709611-b19b-40e4-8a0f-88fee36e00d1.png)
