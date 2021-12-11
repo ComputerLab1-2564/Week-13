@@ -9,3 +9,6 @@
 
 # ด่านที่ 4.4
 ![image](https://user-images.githubusercontent.com/92083472/145680306-1d6b57aa-c6cc-4ac1-9f4f-1389f1bb202d.png)
+
+# ด่านที่ 4.5
+![image](https://user-images.githubusercontent.com/92083472/145680326-01085913-3521-434e-9d1c-5b272691e0d3.png)
