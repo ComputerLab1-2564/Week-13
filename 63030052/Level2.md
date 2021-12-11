@@ -3,3 +3,6 @@
 
 # ด่านที่ 2.2
 ![image](https://user-images.githubusercontent.com/92083472/145679944-ef3d9bbb-2eb0-46b7-a644-4e461f2ad685.png)
+
+# ด่านที่ 2.3
+![image](https://user-images.githubusercontent.com/92083472/145679978-75fd6140-cf52-412a-9721-57a8e7b5fbc7.png)
