@@ -7,17 +7,21 @@
 ผลการเล่นเกมส์
 
 ด่านที่ 5.1 
-![image](https://user-images.githubusercontent.com/92082798/143495734-dc1aa700-ae1a-4dc5-b2f8-a4e7f4c74d84.png)
+![image](https://user-images.githubusercontent.com/92082316/146405566-d84eddfe-3308-4b70-8275-3f1b2cdd538d.png)
+
 
 ด่านที่ 5.2
-![image](https://user-images.githubusercontent.com/92082798/143495736-77789f87-58be-4dff-884e-169070c6d54c.png)
+![image](https://user-images.githubusercontent.com/92082316/146405866-a4aafeaa-331e-429a-98fe-726e75f460e5.png)
+
 
 ด่านที่ 5.3
-![image](https://user-images.githubusercontent.com/92082798/143495743-6fe7cce7-d17c-47fd-b674-1f1c38ba0989.png)
+![image](https://user-images.githubusercontent.com/92082316/146406258-1a82bb4b-8da4-4ae5-b57b-50d22f4d4384.png)
+
 
 
 ---
 ตารางสรุปผล
+![image](https://user-images.githubusercontent.com/92082316/146406322-05956e81-9970-4788-aeb8-f384290f127d.png)
 
-![image](https://user-images.githubusercontent.com/92082798/143495755-0711509e-c2b7-4494-b8fc-19f213d6b969.png)
+
 
