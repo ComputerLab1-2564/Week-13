@@ -23,7 +23,7 @@ To Origin And Beyond -- Advanced Git Remotes!
 
 ด่านที่ 2.6
 
-
+![image](https://user-images.githubusercontent.com/92086229/146636322-245075e9-7429-4cda-8344-f52eebc5f0cd.png)
 
 ด่านที่ 2.7
 
