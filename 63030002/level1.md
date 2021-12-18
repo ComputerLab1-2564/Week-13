@@ -14,7 +14,7 @@ Introduction Sequence
 
 ด่านที่ 1.2
 
-
+![image](https://user-images.githubusercontent.com/92086229/146634845-47ee41ee-4e97-4dac-8c03-1596d9d3368d.png)
 
 ด่านที่ 1.3
 
