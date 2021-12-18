@@ -6,7 +6,7 @@ Ramping Up
 
 ด่านที่ 2.2
 
-
+![image](https://user-images.githubusercontent.com/92086229/146635002-ddcc5817-1285-4452-a657-d06270aee2a9.png)
 
 ด่านที่ 2.3
 
