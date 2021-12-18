@@ -22,4 +22,4 @@ Introduction Sequence
 
 ด่านที่ 1.4
 
-
+![image](https://user-images.githubusercontent.com/92086229/146634946-86129afc-31db-4c5d-9e48-a0dac36ffbd4.png)
