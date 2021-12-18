@@ -3,8 +3,8 @@ Moving Work Around
 
 ด่านที่ 3.1
 
-![image](https://user-images.githubusercontent.com/92082676/143823780-b075fa84-369b-401a-bdef-a8ee41f32a4a.png)
+![image](https://user-images.githubusercontent.com/92086229/146635074-5d4d7141-bb67-4e25-b4db-cb857e830c14.png)
 
 ด่านที่ 3.2 
 
-![image](https://user-images.githubusercontent.com/92082676/143826009-0fac050e-25cc-4ff8-8049-2314507e47cf.png)
+
