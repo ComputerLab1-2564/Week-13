@@ -1,6 +1,6 @@
 
 ตารางสรุปผล
 
-![git pic 1](https://user-images.githubusercontent.com/92082676/143901007-c603487a-f38d-4b32-832d-4e14ebe57185.png)
+![image](https://user-images.githubusercontent.com/92086229/146636443-c9d85403-b8a0-4600-a4fb-e9bfa7128f29.png)
 
-![git pic 2](https://user-images.githubusercontent.com/92082676/143901032-6cb30584-3f06-4c37-8abd-8db2f70b48a0.png)
+![image](https://user-images.githubusercontent.com/92086229/146636455-84f49088-bff1-4bf5-bef5-e9117489865e.png)
