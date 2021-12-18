@@ -11,7 +11,7 @@ A Mixed Bag
 
 ด่านที่ 4.3
 
-
+![image](https://user-images.githubusercontent.com/92086229/146635206-fc2f5fef-a494-47c1-9a0f-d234b6ef75a4.png)
 
 ด่านที่ 4.4.
 
