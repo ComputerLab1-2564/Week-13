@@ -7,7 +7,7 @@ Advanced Topics
 
 ด่านที่ 5.2
 
-
+![image](https://user-images.githubusercontent.com/92086229/146635333-ee21876d-5b2d-4c35-8d1d-d2ecc5a862de.png)
 
 ด่านที่ 5.3
 
