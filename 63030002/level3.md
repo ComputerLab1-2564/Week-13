@@ -7,4 +7,4 @@ Moving Work Around
 
 ด่านที่ 3.2 
 
-
+![image](https://user-images.githubusercontent.com/92086229/146635097-ee9953be-1412-45d8-a896-cf0becb7809a.png)
