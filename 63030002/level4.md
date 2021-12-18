@@ -13,7 +13,7 @@ A Mixed Bag
 
 ![image](https://user-images.githubusercontent.com/92086229/146635206-fc2f5fef-a494-47c1-9a0f-d234b6ef75a4.png)
 
-ด่านที่ 4.4.
+ด่านที่ 4.4
 
 ![image](https://user-images.githubusercontent.com/92086229/146635231-a75de473-0e3d-4e55-b951-d6122c1fc935.png)
 
