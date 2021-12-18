@@ -14,4 +14,4 @@ Ramping Up
 
 ด่านที่ 2.4
 
-
+![image](https://user-images.githubusercontent.com/92086229/146635047-5ed2b2d7-ea34-439f-996d-f7092369df42.png)
