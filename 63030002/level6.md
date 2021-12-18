@@ -23,7 +23,7 @@ Push & Pull -- Git Remotes!
 
 ด่านที่ 1.6
 
-
+![image](https://user-images.githubusercontent.com/92086229/146635621-aac7373b-831c-4338-bd2a-f2d32ad60792.png)
 
 ด่านที่ 1.7
 
