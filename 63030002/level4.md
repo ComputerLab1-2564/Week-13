@@ -7,7 +7,7 @@ A Mixed Bag
 
 ด่านที่ 4.2
 
-
+![image](https://user-images.githubusercontent.com/92086229/146635177-10fd1baf-d256-4fb5-94d5-9fb83af4d8bf.png)
 
 ด่านที่ 4.3
 
